@@ -1,0 +1,17 @@
+.empty_field {
+    display: inline;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.game_card {
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+}
+
+#player_turn {
+    font-weight: bold;
+}
